@@ -1,0 +1,6 @@
+Los requerimientos para este proyecto son instalar:
+python(instalar si es necesario la ultima versión)
+fastapi
+uvicorn
+install psycopg2-binary
+docker pull postgres (para instalar la imagen de postgres)
